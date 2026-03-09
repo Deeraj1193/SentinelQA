@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Artifacts 
+artifacts/
+reports/
+
+# Metrics generated during runs
+analytics/metrics.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
